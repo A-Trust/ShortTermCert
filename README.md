@@ -1,4 +1,6 @@
 # Short Term Cert
+!!! Attention: This interface is only for identity providers that are certified according to eIDAS requirements as an identity provider. !!!
+
 **Short Term Cert** is a qualified short lived certificate 
 in accordance with the eIDAS regulation (https://eur-lex.europa.eu/eli/reg/2014/910/oj, 
 Section 4, Article 28, Qualified certificates for electronic signatures)
