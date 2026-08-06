@@ -9,4 +9,6 @@ Section 4, Article 28, Qualified certificates for electronic signatures)
 in a hardware security module in the A-Trust data center and is deleted after the session ends or after 
 a fixed time intervall of 15 minutes. 
 
-Developer Manual:  [Developer_Manual_Short_Term_Cert](ShortTermCertDeveloperManual.pdf)
+Developer Manual:  https://docs.a-trust.at/apis/ShortTermCert
+
+Swagger: https://docs.a-trust.at/swagger/?urls.primaryName=Short-Term%20Certificate
